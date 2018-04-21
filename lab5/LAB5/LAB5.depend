@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1518599327 source:/home/student3/lab5/LAB5/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1519806345 source:/home/student3/lab5/LAB5/1.c
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+
+1519806381 source:/home/student3/lab5/LAB5/2.c
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<string.h>
+
